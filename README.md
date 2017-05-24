@@ -1,2 +1,2 @@
-初识RxJava
-http://reactivex.io/assets/operators/legend.png
+
+android.permission.READ_PHONE_STATE为了读取手机IMEI做唯一识别码
